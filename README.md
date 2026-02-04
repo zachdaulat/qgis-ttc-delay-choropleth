@@ -1,4 +1,4 @@
-# TTC Delay Rate by Neighbourhood — QGIS Demonstration
+# TTC Delay Rate by Neighbourhood — QGIS + Python Demonstration
 
 A cartographic demonstration of TTC transit delay patterns across Toronto 
 neighbourhoods, created using QGIS and Python.
@@ -53,4 +53,5 @@ The Python script shows how I reproduced the analytical workflow and output
 
 - QGIS 3.44.7-Solothurn
 - Python (via QGIS Python Console)
+
 - R/sf for initial data preparation and geocoding pipeline
